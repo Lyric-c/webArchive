@@ -14,5 +14,5 @@ jobs:
         server: vhost252.cloudvhost.cn
         username: webmaster@HA626204
         password: ${{ secrets.ftp_password }}
-        server-dir: /WEB/webArchive
+        server-dir: /WEB/webArchive/
         timeout: 10000
